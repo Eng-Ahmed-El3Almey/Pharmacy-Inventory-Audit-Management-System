@@ -22,7 +22,6 @@ obj/
 *.ldf
 *.bak
 *.bacpac
-
 # Local configuration and secrets
 .env
 .env.*
