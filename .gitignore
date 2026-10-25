@@ -1,0 +1,34 @@
+
+# Build output
+bin/
+obj/
+.vs/
+[Bb]uild/
+[Dd]ebug/
+[Rr]elease/
+
+# Visual Studio
+*.user
+*.suo
+*.cache
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# Database files and backups
+*.mdf
+*.ldf
+*.bak
+*.bacpac
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+appsettings.Local.json
+secrets.json
+
+# IDE files
+.idea/
